@@ -1,0 +1,27 @@
+Cybersecurity (CS) of Critical Infrastructures (CI)
+	Characteristics
+		CS
+			Performance
+			Threats
+			Actors
+		CI
+			Meaning
+			Composition
+	Structure
+		Scope
+		Stakeholders
+		Topology
+	Behavior
+		Plan
+			Vision
+			Strategy
+			Policy
+			Resources
+		Direct and control
+			Identify
+			Protect
+			Detect
+			Respond
+			Recover
+			
+		
